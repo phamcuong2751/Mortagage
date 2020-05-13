@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\STUDY\Công cụ CKPM\Thực hành\WEEK_02\Mortage2\Mortage2\Source.cpp(29,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\STUDY\Công cụ CKPM\Thực hành\WEEK_02\Mortage2\Mortage2\Source.cpp(31,6): warning C4101: 'mortagage': unreferenced local variable
+D:\STUDY\Công cụ CKPM\Thực hành\WEEK_02\Mortage2\Mortage2\Source.cpp(14): warning C4715: 'kiemTraGioiTinh': not all control paths return a value
+  Mortage2.vcxproj -> D:\STUDY\Công cụ CKPM\Thực hành\WEEK_02\Mortage2\Debug\Mortage2.exe
